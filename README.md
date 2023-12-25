@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="800" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+<img align="center"  height="800" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <h1 align="center">Hi 👋, I'm Hanzala Abubakar</h1>
 <h3 align="center">A passionate Mern Stack Developer from Karachi, Pakistan🇵🇰</h3>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
