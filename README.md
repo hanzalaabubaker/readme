@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
 <h1 align="center">Hi 👋, I'm Hanzala Abubakar</h1>
 <h3 align="center">A passionate Mern Stack Developer from Karachi, Pakistan🇵🇰</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)")
+(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzalaabubaker" alt="hanzalaabubaker" /></a> </p>
 
